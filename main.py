@@ -1,4 +1,5 @@
 import pandas as pd
+<<<<<<< HEAD
 import unidecode
 
 # Lê os dados do .csv de acordo com a dificuldade
@@ -14,14 +15,27 @@ elif diff == "dificil":
 tabela = tabela.sample(frac=1)
 indice = 0
 total_linhas = len(tabela)
+=======
+import random
+
+# Lê os dados do .csv
+tabela = pd.read_csv("questionsdata.csv", sep=";")
+
+# Embaralha a tabela e aloca uma variável índice que indica o número da linha
+tabela = tabela.sample(frac=1)
+indice = 0
+>>>>>>> 0cf931567415325a83c2dd5c952a33493e0f2ade
 
 # Inicia um loop para repetir as questões se a alternativa for certa ou errada
 resposta = ()
 while resposta != "SAIR":
+<<<<<<< HEAD
     # Para se acabarem as perguntas
     if indice >= total_linhas:
         print("Você completou as questões!")
         break
+=======
+>>>>>>> 0cf931567415325a83c2dd5c952a33493e0f2ade
     # Pega uma pergunta da lista embaralhada
     pergunta_aleatoria = tabela.iloc[indice]
 
@@ -44,6 +58,7 @@ while resposta != "SAIR":
 
         # Confere se as condições foram verdadeiras ou não e responde ao usuário     
         if acertou == True:
+<<<<<<< HEAD
             print("-"*30)
             print("Resposta correta!")
             print("-"*30)
@@ -52,10 +67,17 @@ while resposta != "SAIR":
             print("-"*30)
             print("Resposta incorreta.")
             print("-"*30)
+=======
+            print("Resposta correta!")
+            break
+        elif acertou == False and resposta in ["A", "B", "C", "D"]:
+            print("Resposta incorreta.")
+>>>>>>> 0cf931567415325a83c2dd5c952a33493e0f2ade
             break
         elif resposta == "SAIR":    
             break
         else:
+<<<<<<< HEAD
             print("-"*30)
             print("Alternativa Inválida")
             print("-"*30)
@@ -65,6 +87,13 @@ while resposta != "SAIR":
         print("-"*30)
         break
     # Adiciona 1 ao índice para passar para próxima linha da tabela, e reseta o valor da variável resposta, encerra se exceder o índice
+=======
+            print("Alternativa Inválida")
+    if resposta == "SAIR":
+        print("Programa Encerrado")
+        break
+    # Adiciona 1 ao índice para passar para próxima linha da tabela, e reseta o valor da variável resposta
+>>>>>>> 0cf931567415325a83c2dd5c952a33493e0f2ade
     indice += 1
     resposta = ()
     
