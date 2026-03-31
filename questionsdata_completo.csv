@@ -1,0 +1,61 @@
+Perguntas;A;B;C;D;Resposta;Nivel
+Quanto é 15 + 8?;21;22;23;24;C;Facil
+Quanto é 30 - 12?;16;17;18;19;C;Facil
+Qual é o dobro de 9?;16;17;18;20;C;Facil
+Quanto é 4 x 6?;20;22;24;26;C;Facil
+Quanto é 20 / 4?;3;4;5;6;C;Facil
+Qual é a metade de 36?;14;16;18;20;C;Facil
+Quanto é 100 - 45?;50;55;60;65;B;Facil
+Quanto é 7 x 3?;18;19;21;24;C;Facil
+Quanto é 50 + 33?;80;83;85;88;B;Facil
+Qual é o triplo de 8?;20;22;24;26;C;Facil
+Quanto é 64 / 8?;6;7;8;9;C;Facil
+Quanto é 25 + 17?;40;41;42;43;C;Facil
+Quanto é 9 x 4?;32;34;36;38;C;Facil
+Qual é a metade de 90?;40;42;45;50;C;Facil
+Quanto é 100 / 5?;15;20;25;30;B;Facil
+Quanto é 13 + 19?;30;31;32;33;C;Facil
+Quanto é 48 / 6?;6;7;8;9;C;Facil
+Quanto é 5 x 9?;40;43;45;50;C;Facil
+Quanto é 77 - 29?;46;47;48;49;C;Facil
+Qual é o dobro de 25?;40;45;50;55;C;Facil
+Uma loja dá 20% de desconto em um produto de R$ 80,00. Qual o preço final?;R$ 56,00;R$ 60,00;R$ 64,00;R$ 68,00;C;Medio
+João tem R$ 350,00 e gasta 40% com alimentação. Quanto sobra?;R$ 190,00;R$ 200,00;R$ 210,00;R$ 220,00;C;Medio
+Um retângulo tem base 9 cm e altura 7 cm. Qual é sua área?;54 cm²;60 cm²;63 cm²;70 cm²;C;Medio
+Um carro percorre 180 km em 3 horas. Qual é a velocidade média?;50 km/h;55 km/h;60 km/h;65 km/h;C;Medio
+Numa prova de 20 questões, Pedro acertou 80%. Quantas ele errou?;2;3;4;5;C;Medio
+Um triângulo tem base 12 cm e altura 8 cm. Qual é sua área?;42 cm²;46 cm²;48 cm²;52 cm²;C;Medio
+Carlos investe R$ 500,00 a 6% de juros simples ao mês. Após 2 meses, qual o montante?;R$ 555,00;R$ 560,00;R$ 565,00;R$ 570,00;B;Medio
+Uma torneira enche 150 litros em 3 horas. Quantos litros por hora?;40 L/h;45 L/h;50 L/h;55 L/h;C;Medio
+O triplo de um número menos 6 é igual a 27. Qual é o número?;9;10;11;12;D;Medio
+Um terreno tem 12 m de largura e 18 m de comprimento. Qual é o perímetro?;54 m;58 m;60 m;64 m;C;Medio
+Em uma eleição, um candidato recebeu 3.600 de 9.000 votos. Que percentual é isso?;30%;35%;40%;45%;C;Medio
+Numa receita para 6 pessoas usam-se 900g de farinha. Quantos gramas para 4 pessoas?;500 g;550 g;600 g;650 g;C;Medio
+Um produto custava R$ 120,00 e teve aumento de 25%. Qual o novo preço?;R$ 140,00;R$ 145,00;R$ 150,00;R$ 155,00;C;Medio
+Um trem parte às 7h e chega às 10h30, percorrendo 280 km. Qual a velocidade média?;70 km/h;75 km/h;80 km/h;85 km/h;C;Medio
+Uma caixa com 3.600 litros está 25% cheia. Quantos litros faltam para completar?;2.400 L;2.500 L;2.600 L;2.700 L;D;Medio
+Se 5 operários fazem um serviço em 12 dias, quantos dias 10 operários levarão?;4;5;6;7;C;Medio
+O salário de Ana é R$ 1.800,00 e ela recebe aumento de 15%. Qual o novo salário?;R$ 2.000,00;R$ 2.050,00;R$ 2.070,00;R$ 2.100,00;C;Medio
+Uma piscina de 4.800 litros é esvaziada em 8 horas. Quantos litros por hora?;500 L/h;550 L/h;600 L/h;650 L/h;C;Medio
+Dois números somam 84 e um é o dobro do outro. Qual é o menor?;24;26;28;30;C;Medio
+Um quadrado tem perímetro de 52 cm. Qual é sua área?;144 cm²;156 cm²;169 cm²;196 cm²;C;Medio
+Uma aplicação de R$ 2.000,00 a juros compostos de 5% ao mês. Qual o montante após 2 meses?;R$ 2.100,00;R$ 2.150,00;R$ 2.200,00;R$ 2.205,00;D;Dificil
+A soma dos ângulos internos de um polígono é 1.080°. Quantos lados ele tem?;6;7;8;9;C;Dificil
+Um cone tem raio 3 cm e altura 4 cm. Qual é seu volume? (π ≈ 3,14);36,68 cm³;37,68 cm³;38,68 cm³;39,68 cm³;B;Dificil
+Numa PA com primeiro termo 3 e razão 5, qual é o 10° termo?;46;48;50;52;B;Dificil
+A hipotenusa de um triângulo retângulo mede 13 cm e um cateto mede 5 cm. Qual é o outro cateto?;10 cm;11 cm;12 cm;13 cm;C;Dificil
+Um capital de R$ 3.000,00 rendeu R$ 720,00 de juros simples em 8 meses. Qual a taxa mensal?;2,5%;3%;3,5%;4%;B;Dificil
+Quantos termos tem a PA (2, 5, 8, ..., 98)?;31;32;33;34;C;Dificil
+Uma esfera tem raio 6 cm. Qual é seu volume? (π ≈ 3,14);895,32 cm³;904,32 cm³;913,32 cm³;922,32 cm³;B;Dificil
+Numa PG com primeiro termo 2 e razão 3, qual é o 5° termo?;160;162;164;166;B;Dificil
+O discriminante de 2x² - 5x + 3 = 0 é igual a?;1;2;3;4;A;Dificil
+Três torneiras iguais enchem um tanque em 4 horas. Em quanto tempo 6 torneiras encheriam o mesmo tanque?;1h;1h30;2h;2h30;C;Dificil
+Uma circunferência tem área de 314 cm². Qual é seu raio? (π ≈ 3,14);8 cm;9 cm;10 cm;11 cm;C;Dificil
+Se log 2 = 0,301, quanto vale log 8?;0,602;0,903;1,204;1,505;B;Dificil
+Num triângulo, dois ângulos medem 47° e 68°. Qual é o terceiro?;55°;60°;65°;70°;C;Dificil
+Uma função f(x) = 3x² - 2x + 1. Qual é f(2)?;8;9;10;11;B;Dificil
+Quantas diagonais tem um hexágono?;7;8;9;10;C;Dificil
+A soma de uma PA com 10 termos é 155 e o primeiro termo é 2. Qual é a razão?;3;3,5;4;4,5;A;Dificil
+Num triângulo retângulo, sen(30°) = 0,5. Se a hipotenusa é 20 cm, qual é o cateto oposto?;8 cm;9 cm;10 cm;11 cm;C;Dificil
+Resolva: 2^(x+1) = 32. Qual é x?;3;4;5;6;B;Dificil
+Um cilindro tem raio 4 cm e altura 10 cm. Qual é seu volume? (π ≈ 3,14);501,2 cm³;502,4 cm³;503,2 cm³;504,4 cm³;B;Dificil
